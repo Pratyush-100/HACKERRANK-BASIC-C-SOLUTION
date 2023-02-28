@@ -1,0 +1,2 @@
+# HACKERRANK-BASIC-C-SOLUTION
+https://github.com/Pratyush-100/HACKERRANK-BASIC-C-SOLUTION.git
